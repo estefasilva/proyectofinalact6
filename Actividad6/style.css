@@ -1,0 +1,45 @@
+body{
+    background-color: pink;
+}
+header .container{
+    background-color: pink;
+}
+.redessociales{
+    text-align: right;
+    align-items: center;
+    padding: 1%;
+}
+.carrusel h2 {
+   color: black;
+}
+.carrusel h3{
+    color: black;
+}
+.nosotros{
+    background-color: pink;
+    text-align: justify;
+}
+.col-6 img{
+    width: 100%;
+}
+.card{
+    text-align: center;
+}
+.btn{
+    background-color: pink;
+    color: black;
+    border-color: palevioletred;
+}
+.contacto{
+    text-align: center;
+}
+.contactenos{
+    background-color: rgb(61, 243, 243);
+}
+.registro{
+    text-align: center;
+    align-items: center;
+}
+.pie{
+    background-color: pink;
+}
